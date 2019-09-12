@@ -2,6 +2,6 @@
 
 module.exports = {
   connectors: require('./lib/connectors'),
-  errors: require('./lib/errors'),
+  lambdaRouters: require('./lib/lambda-routers'),
   models: require('./lib/models'),
 };
